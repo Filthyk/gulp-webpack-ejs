@@ -1,0 +1,59 @@
+@import "./variables.css";
+
+.i-icon {
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    vertical-align: middle;
+    width: 1em;
+    height: 1em;
+    fill: currentColor;
+}
+
+.icon-link {
+    text-decoration: none;
+
+    > * {
+        vertical-align: middle;
+    }
+
+    &:hover {
+        span {
+            border-color: transparent;
+        }
+    }
+
+    .i-icon {
+        margin-right: 5px;
+
+    }
+
+    span {
+        border-bottom: 1px solid var(--c-gray);
+        transition: .2s;
+    }
+
+
+    &--expand {
+        color: var(--c-gray-light);
+        font-weight: 500;
+        cursor: pointer;
+
+        span {
+            border-bottom: 1px dashed;
+        }
+
+        .i-icon {
+            width: 8px;
+            height: 8px;
+            transform: rotate(90deg);
+            margin: 0;
+            margin-left: 5px;
+
+
+            path {
+                fill: currentColor;
+            }
+        }
+    }
+}

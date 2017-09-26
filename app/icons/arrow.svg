@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.188" height="12.69" viewBox="0 0 21.188 12.69">
+<defs>
+    <style>
+      .cls-arrow {
+        stroke: #121212;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="кнопка_-_в_новость" data-name="кнопка - в новость">
+    <path id="Фигура_5_копия_3" data-name="Фигура 5 копия 3" class="cls-arrow" d="M810,3076h20" transform="translate(-809.5 -3069.81)"/>
+    <path id="Фигура_5_копия_4" data-name="Фигура 5 копия 4" class="cls-arrow" d="M824.525,3070.32l5.657,5.65" transform="translate(-809.5 -3069.81)"/>
+    <path id="Фигура_5_копия_5" data-name="Фигура 5 копия 5" class="cls-arrow" d="M830,3076.67l-5.324,5.32" transform="translate(-809.5 -3069.81)"/>
+  </g>
+</svg>

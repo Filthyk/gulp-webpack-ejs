@@ -1,0 +1,16 @@
+:root {
+    --c-blue: #0a6dcc;
+    --c-blue-dark: #16395e;
+    --c-blue-dark2: #255992;
+    --c-blue-light: #1282ed;
+    --c-blue-gray: #e8f2f9;
+    --c-black: #222222;
+    --c-black-light: #444444;
+    --c-gray: #7a7a7a;
+    --c-gray-light: #999999;
+    --c-white-dark: #bdbdbd;
+    --c-border: #d7d7d7;
+    --c-border2: #dfe8ed;
+    --c-red: red;
+    --columnWidth: 8.3333%;
+}

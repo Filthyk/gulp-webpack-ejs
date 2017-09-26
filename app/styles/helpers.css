@@ -1,0 +1,13 @@
+@import "media.css";
+
+.hidden-mobile {
+    @media (--mobile) {
+        display: none;
+    }
+}
+
+.visible-mobile {
+    @media (--mobile-above) {
+        display: none;
+    }
+}

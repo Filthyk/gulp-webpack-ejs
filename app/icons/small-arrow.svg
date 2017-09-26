@@ -1,0 +1,12 @@
+<svg id="Группа_33" data-name="Группа 33" xmlns="http://www.w3.org/2000/svg" width="5" height="8" viewBox="0 0 5 8">
+<defs>
+    <style>
+      .cls-small-arrow-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-small-arrow-1" d="M505.291,598.317l3.024-3.018a0.992,0.992,0,0,1,1.4,1.4l-3.024,3.017A0.991,0.991,0,0,1,505.291,598.317Z" transform="translate(-505 -592)"/>
+  <path class="cls-small-arrow-1" d="M505.291,592.282a0.993,0.993,0,0,1,1.4,0l3.024,3.017a0.992,0.992,0,0,1-1.4,1.4l-3.024-3.018A0.989,0.989,0,0,1,505.291,592.282Z" transform="translate(-505 -592)"/>
+</svg>
